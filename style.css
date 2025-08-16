@@ -1,0 +1,83 @@
+.container{
+  width: 1160px;
+  height: 1133px;
+  border-radius: 40px;
+  background-color: rgba(52, 60, 86, 1);
+  
+}
+.a1{
+  width: 200px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: rgba(255, 1, 1, 1);
+  text-align: center;
+  color: white;
+ 
+
+ 
+}
+.a2{
+  display: flex;
+  gap: 65px;
+ padding: 46px 81px;
+ box-sizing: border-box;
+
+
+}
+.a4{
+  display: flex;
+  gap: 200px;
+  padding: 80px;
+  box-sizing: border-box ;
+}
+.a3{
+  width: 264px;
+  height: 118px;
+  background-color: black;
+  border-radius: 40px;
+  padding-top: 44px;
+  padding-bottom: 59px;
+  padding-left: 82px;
+  padding-right: 81px;
+  box-sizing: border-box;
+  color: white;
+
+
+}
+.b1{
+  width: 400px;
+  height: 200px;
+  border-radius: 50px;
+  background-color: rgba(235, 22, 22, 1);
+}
+.box{
+  display: flex;
+  gap: 200px;
+  padding: 80px 79px;
+ 
+
+}
+ .b2{
+  width: 300px;
+  height: 109px;
+
+  margin: 20px auto;
+  font-size: 12px;
+   text-align: center;
+  background-color: rgba(97, 255, 0, 1);
+    padding: 35px 30px;
+  box-sizing: border-box;
+
+
+ }
+ .b3{
+  width: 305px;
+  height: 130px;
+  margin: 20px auto;
+  font-size: 12px;
+   text-align: center;
+  background-color: rgba(97, 255, 0, 1);
+    padding: 35px 20px;
+  box-sizing: border-box;
+
+ }
